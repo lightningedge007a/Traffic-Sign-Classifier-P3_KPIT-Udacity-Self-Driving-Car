@@ -1,0 +1,2 @@
+model_checkpoint_path: "lenet_V6"
+all_model_checkpoint_paths: "lenet_V6"
